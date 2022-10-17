@@ -26,7 +26,7 @@ Once you have a working installation of both Jupyter Notebook and Julia, you nee
 ```
 Wait until the package installation is complete. You can close the Julia session.
 
-#### (4) Initialize this repository
+### (4) Initialize this repository
 Clone this repository to your computer, navigate to it in a terminal window, and start a Julia session from within it. Then, run
 ```
 >> using Pkg
